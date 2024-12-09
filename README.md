@@ -8,7 +8,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+I am a **3rd-year Computer Science** student, currently expanding my knowledge in both back-end and front-end development. I have experience as a web developer in various fields, and my goal is to strengthen my development skills while exploring new technologies. I love learning and enjoy building projects that are creative, innovative, and fun.
 - 📚 I’m currently learning ...
   - *Angular*
   - *TypeScript*
