@@ -2,7 +2,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/hanselijahv">Hans</a></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+***About me***
 
 ![Profile views](https://komarev.com/ghpvc/?username=hanselijahv&label=Profile%20views&color=60598F&style=flat)
 
@@ -34,7 +34,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
