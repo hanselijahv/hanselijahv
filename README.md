@@ -37,7 +37,6 @@ I am a **3rd-year Computer Science** student with a solid foundation in computer
 <br>
 
 ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
