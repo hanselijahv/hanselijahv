@@ -6,9 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hanselijahv&label=Profile%20views&color=60598F&style=flat)
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-<p align="justify" width=300px>
+<p align="justify">
 I am a **3rd-year Computer Science** student with a solid foundation in computer programming, data structures, and algorithms. My current academic focus includes advanced web development, software engineering, and database management. These studies, coupled with my experience as a web developer in various fields, have helped me expand my knowledge in both back-end and front-end development. I am passionate about exploring new technologies, strengthening my skills, and applying them to creative, innovative, and fun projects.
 </p>
 
