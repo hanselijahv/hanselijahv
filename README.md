@@ -12,8 +12,8 @@ I am a <strong>3rd-year Computer Science</strong> student with a solid foundatio
 </p>
 
 - 📚 I’m currently learning ...
-  - *Angular*
-  - *TypeScript*
+  - *Machine Learning*
+  - *Deep Learning*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
