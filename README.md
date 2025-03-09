@@ -8,7 +8,7 @@
 
 
 <p align="justify">
-I am a **3rd-year Computer Science** student with a solid foundation in computer programming, data structures, and algorithms. My current academic focus includes advanced web development, software engineering, and database management. These studies, coupled with my experience as a web developer in various fields, have helped me expand my knowledge in both back-end and front-end development. I am passionate about exploring new technologies, strengthening my skills, and applying them to creative, innovative, and fun projects.
+I am a <strong>3rd-year Computer Science</strong> student with a solid foundation in computer programming, data structures, and algorithms. My current academic focus includes advanced web development, software engineering, and database management. These studies, coupled with my experience as a web developer in various fields, have helped me expand my knowledge in both back-end and front-end development. I am passionate about exploring new technologies, strengthening my skills, and applying them to creative, innovative, and fun projects.
 </p>
 
 - 📚 I’m currently learning ...
