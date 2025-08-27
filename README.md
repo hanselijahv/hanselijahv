@@ -21,9 +21,6 @@ I am a <strong>Senior Computer Science</strong> student with a solid foundation 
 <br>
 
 <!-- Profile Trophies -->
-<div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=hanselijahv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>     
 
 <!-- Social Links -->
 <div align="center">
