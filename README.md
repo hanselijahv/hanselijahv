@@ -22,13 +22,6 @@ I am a <strong>Senior Computer Science</strong> student with a solid foundation 
 
 <!-- Profile Trophies -->
 
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:hanselijahv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/hans-elijah-viduya-9aa46627a/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/godsfav.virgo/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-</div>
-
 <br>
 
 ***Skills***
