@@ -1,0 +1,63 @@
+<svg width="1100" height="540" viewBox="0 0 1100 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Confidant File Persona-inspired profile menu</title>
+  <desc id="desc">A red, black, and white angular profile menu for Hans with role, current arc, main quest, side quests, and contact details.</desc>
+  <rect width="1100" height="540" fill="#050507"/>
+  <path d="M0 58L1100 0V120L0 170V58Z" fill="#F2F2F2"/>
+  <path d="M0 98L1100 18V74L0 150V98Z" fill="#FF0033"/>
+  <path d="M777 0L1100 0L945 215L678 176L777 0Z" fill="#050507"/>
+  <path d="M855 0L1100 0L1002 82L789 126L855 0Z" fill="#F2F2F2"/>
+  <path d="M22 42L192 21L160 92L248 92L131 153L145 104L22 142V42Z" fill="#050507"/>
+  <path d="M34 50L151 36L130 82L198 82L108 130L121 94L34 122V50Z" fill="#F2F2F2"/>
+  <path d="M46 58L117 50L104 75L151 75L89 109L100 85L46 102V58Z" fill="#050507"/>
+  <g opacity="0.95">
+    <path d="M80 176H642L598 238H36L80 176Z" fill="#F2F2F2"/>
+    <path d="M92 188H620L589 226H61L92 188Z" fill="#050507"/>
+    <text x="104" y="214" font-family="Impact, Arial Black, Arial, sans-serif" font-size="32" fill="#F2F2F2" letter-spacing="1">CONFIDANT FILE</text>
+    <text x="404" y="214" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" fill="#FF0033" letter-spacing="2">HANS</text>
+  </g>
+  <path d="M723 164L1045 132L1075 472L690 505L723 164Z" fill="#F2F2F2"/>
+  <path d="M742 183L1024 155L1049 451L714 480L742 183Z" fill="#111118"/>
+  <path d="M760 208L1008 184L1014 254L754 279L760 208Z" fill="#FF0033"/>
+  <text x="783" y="239" font-family="Impact, Arial Black, Arial, sans-serif" font-size="29" fill="#F2F2F2">CURRENT ARC</text>
+  <text x="783" y="267" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#050507">MACHINE LEARNING + DEEP LEARNING</text>
+  <path d="M742 310L1018 286L1025 354L736 378L742 310Z" fill="#F2F2F2"/>
+  <text x="765" y="339" font-family="Impact, Arial Black, Arial, sans-serif" font-size="25" fill="#050507">MAIN QUEST</text>
+  <text x="765" y="363" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900" fill="#FF0033">BUILD SHARP, USEFUL SOFTWARE</text>
+  <path d="M727 411L1032 384L1038 436L721 463L727 411Z" fill="#FF0033"/>
+  <text x="752" y="444" font-family="Arial Black, Arial, sans-serif" font-size="17" fill="#F2F2F2">READY FOR NEW PROJECTS</text>
+  <g opacity="0.3">
+    <circle cx="860" cy="460" r="4" fill="#050507"/>
+    <circle cx="882" cy="458" r="4" fill="#050507"/>
+    <circle cx="904" cy="456" r="4" fill="#050507"/>
+    <circle cx="926" cy="454" r="4" fill="#050507"/>
+    <circle cx="948" cy="452" r="4" fill="#050507"/>
+  </g>
+  <path d="M45 261L654 224L687 462L92 502L45 261Z" fill="#F2F2F2"/>
+  <path d="M72 282L634 249L660 437L111 474L72 282Z" fill="#101016"/>
+  <path d="M65 286L241 275L256 386L86 396L65 286Z" fill="#FF0033"/>
+  <text x="93" y="328" font-family="Impact, Arial Black, Arial, sans-serif" font-size="46" fill="#F2F2F2">HANS</text>
+  <text x="94" y="361" font-family="Arial Black, Arial, sans-serif" font-size="16" fill="#050507" letter-spacing="1">SENIOR CS STUDENT</text>
+  <path d="M262 276L622 255L630 309L270 331L262 276Z" fill="#F2F2F2"/>
+  <text x="291" y="303" font-family="Arial Black, Arial, sans-serif" font-size="18" fill="#050507">WEB DEVELOPER</text>
+  <text x="475" y="303" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" fill="#FF0033">FRONTEND / BACKEND</text>
+  <path d="M276 350L623 329L629 385L282 407L276 350Z" fill="#FF0033"/>
+  <text x="303" y="382" font-family="Arial Black, Arial, sans-serif" font-size="17" fill="#F2F2F2">ASK ME ABOUT WEB, BACKENDS, DATABASES</text>
+  <path d="M117 417L434 397L440 447L124 467L117 417Z" fill="#F2F2F2"/>
+  <text x="143" y="448" font-family="Arial Black, Arial, sans-serif" font-size="16" fill="#050507">GAMES / MUSIC / INSTRUMENTS</text>
+  <path d="M455 398L631 387L636 432L460 443L455 398Z" fill="#050507" stroke="#F2F2F2" stroke-width="5"/>
+  <text x="476" y="427" font-family="Arial Black, Arial, sans-serif" font-size="15" fill="#F2F2F2">CONTACT READY</text>
+  <path d="M97 214L116 183L145 210L128 237L97 214Z" fill="#FF0033"/>
+  <path d="M140 204L162 173L204 197L181 228L140 204Z" fill="#050507"/>
+  <path d="M189 197L217 167L258 191L229 223L189 197Z" fill="#F2F2F2"/>
+  <path d="M946 105L986 89L1000 126L956 139L946 105Z" fill="#FF0033"/>
+  <path d="M986 91L1022 79L1033 111L997 124L986 91Z" fill="#050507"/>
+  <g opacity="0.7">
+    <circle cx="36" cy="492" r="6" fill="#F2F2F2"/>
+    <circle cx="58" cy="488" r="5" fill="#F2F2F2"/>
+    <circle cx="80" cy="484" r="4" fill="#F2F2F2"/>
+    <circle cx="102" cy="480" r="3" fill="#F2F2F2"/>
+    <circle cx="1040" cy="220" r="6" fill="#050507"/>
+    <circle cx="1062" cy="216" r="5" fill="#050507"/>
+    <circle cx="1084" cy="212" r="4" fill="#050507"/>
+  </g>
+</svg>
